@@ -1,0 +1,8 @@
+{
+    "username" : "TAKrita",
+    "password" : "1234567890",
+    "passwordRequiredMessage" : "Please enter password",
+    "wrongPasswordorUsernameMessage" : "Wrong username or password",
+    "loginSuccessMessage" : "Welcome TAKrita"
+
+}

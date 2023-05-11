@@ -1,0 +1,13 @@
+{
+    "firstName" : "rita",
+    "surname" : "TAK",
+    "epost" : "123",
+    "mobile" : "01234567890",
+    "username" : "TAKrita",
+    "password" : "1234567890",
+    "wrongpassword" : "123456789012",
+    "confirmPasswordErrorMessage" : "do not match",
+    "successsignupMessage" : "Registration Successful",
+    "usernameExistMessage" : "Username already exist"
+
+}
