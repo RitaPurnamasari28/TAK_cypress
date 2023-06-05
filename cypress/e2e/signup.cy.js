@@ -39,7 +39,7 @@ describe('Verify signup scenario', () => {
       cy.get(SignupPage.submitBtn).should('be.visible').click()
       cy.get(SignupPage.usernameExistMessage).should('be.visible')
     })
-    it.only('Success Sign Up', () => {
+    it('Success Sign Up', () => {
       cy.get(SignupPage.firstName).should('be.visible').type(signupInput.firstName)
       cy.get(SignupPage.surname).should('be.visible').type(signupInput.surname)
       cy.get(SignupPage.epost).should('be.visible').type(signupInput.epost)
